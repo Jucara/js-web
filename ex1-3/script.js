@@ -11,8 +11,6 @@ import "./style.scss";
 /*
   Put the JavaScript code you want below.
 */
-
-
 document.querySelector('#Reset').addEventListener('click',() =>{
   document.getElementById('name').value="";
   document.getElementById('power').value="";
